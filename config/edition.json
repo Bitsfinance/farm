@@ -5,7 +5,7 @@
   "farmPrimaryTitle": "Stake tokens to earn REDA",
   "farmSecondaryTitle": "",
   "logoImage": "./images/farms/REDALOGO.png",
-  "tokenImage": "./images/networks/polygon-icon.png",
+  "tokenImage": "./images/farms/REDALOGO.png",
   "homeStakingCardBackground": "./images/networks/polygon-icon.png",
   "googleAnalytics": "",
   "priceLink": "https://polygon.poocoin.app/tokens/0x76B4dfCdDb27CC4FD0237beE2AF1525D8A2479D1",
