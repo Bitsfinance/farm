@@ -6,7 +6,7 @@
   "farmSecondaryTitle": "",
   "logoImage": "./images/farms/REDALOGO.png",
   "tokenImage": "./images/farms/REDALOGO.png",
-  "homeStakingCardBackground": "./images/networks/polygon-icon.png",
+  "homeStakingCardBackground": "./images/farms/REDALOGO.png",
   "googleAnalytics": "",
   "priceLink": "https://polygon.poocoin.app/tokens/0x76B4dfCdDb27CC4FD0237beE2AF1525D8A2479D1",
   "socials": [
