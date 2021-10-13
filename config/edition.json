@@ -4,7 +4,7 @@
   "homeTitle": "RED APPLE",
   "farmPrimaryTitle": "Stake tokens to earn REDA",
   "farmSecondaryTitle": "",
-  "logoImage": "./images/farm/REDALOGO.PNG",
+  "logoImage": "./images/farms/REDALOGO.png",
   "tokenImage": "./images/networks/polygon-icon.png",
   "homeStakingCardBackground": "./images/networks/polygon-icon.png",
   "googleAnalytics": "",
